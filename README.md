@@ -11,7 +11,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Todoist Stats
+🔭 I’m currently working on Chalkr, which is an iOs app to track my climbing workout sessions.
 
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+  - 🧗 Log Routes: Record ascents with details like grade, style, etc.
+  - 🏋️ Record & Manage workouts: Log your climbing sessions.
+  - 📱 Local-First: Log your workouts on the go.
+  - 📅 Workout History & Review: Access and review past workouts and analyze performance.
+  - 📊 Grade & Style Analysis: Analyse completed routes and identify strengths & weaknesses.
+  - 🌏 Find out more at https://github.com/Portavion/Chalkr.
